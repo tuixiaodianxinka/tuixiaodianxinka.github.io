@@ -13,13 +13,13 @@ title: 办卡学长的新生指南
 - 六级真题详细解析视频[2021.12 第一卷](https://www.bilibili.com/video/BV18U4y1U7HT) [2021.12 第二卷](https://www.bilibili.com/video/BV1434y177HB)   [2021.12 第三卷](https://www.bilibili.com/video/BV1og411D7Wn)
 
 ## 大一必修课资料分享
-- 近代史纲要的题库(excel)
-- 思修课的题库(excel)
+- [近代史纲要的题库(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%EF%BC%88%E8%AF%BE%E7%A8%8B%E7%BB%84%EF%BC%89-%E9%A2%98%E5%BA%93%EF%BC%882022-2023-1%EF%BC%89.xls.lnk)
+- [思修课的题库(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/22-23-2%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E9%A2%98%E5%BA%93.xlsx)
 - 未央学社 数学营（找往年期末期中试卷+答疑）：682906443                 [这是群主](https://www.zhihu.com/people/yong-tan-39-67)
 - 未央学社 物理2营（找往年期末期中试卷+答疑，非物理相关专业用）：691128343
 
 ## 校内实用资源导航
-- 选课指南(excel)
+- [选课指南(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/HDU%E9%80%89%E8%AF%BE%E6%8C%87%E5%8C%97_by%20STEA%20TEAM.xlsx)
 - [超星泛雅/学习通](https://passport2.chaoxing.com/)
 - [教务处](https://jwc.hdu.edu.cn/)
 - [智慧杭电](https://i.hdu.edu.cn/)
@@ -39,7 +39,7 @@ title: 办卡学长的新生指南
 - 查找资料的三大社区：B站，知乎，CSDN（可能还有GitHub）
 
 
-- [很清爽的线性代数课](https://www.bilibili.com/video/BV16Z4y1U7oU) 以及 笔记
+- [很清爽的线性代数课](https://www.bilibili.com/video/BV16Z4y1U7oU) 以及 [笔记](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/blob/master/_assets/The-Art-of-Linear-Algebra-zh-CN.pdf)
 
 
 -
