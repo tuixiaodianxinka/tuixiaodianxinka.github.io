@@ -3,8 +3,15 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## 电信卡选购指南
+- 杭电指北的入网篇（有详细选择指南）： https://www.yuque.com/hduer/guide/choose-networks
+- 太长不看：校园卡很划算但不是必须的。移动电信39/月含宽带，联通28/月不含宽带，如果寝室同学约好可以只有一两个人办移动电信卡给全寝室用宽带，但五个人都办卡能达到200Mbps * 5的千兆速率
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## 大一网课推荐
+- 翁恺C语言
+- 宋浩的高数线代
+- 近代史纲要的题库
+- 六级真题详细解析视频（链接）
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## 优质学习资料推荐
+- 注意：这里的内容能帮助你加深理解和自我提升，但要考好期末考你需要优先**刷历年真题**
