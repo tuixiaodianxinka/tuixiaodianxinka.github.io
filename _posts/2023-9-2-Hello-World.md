@@ -7,8 +7,9 @@ title: 办卡学长的新生指南
 - [杭电指北的入网篇（有详细选择指南）](https://www.yuque.com/hduer/guide/choose-networks)
 - 太长不看：校园卡很划算但不是必须的。移动电信39/月含寝室个人宽带，联通28/月不含寝室个人宽带，如果寝室同学约好可以只有一两个人办移动电信卡给全寝室用宽带，但五个人都办卡能通过配置路由器同时使用5个账号达到200Mbps * 5的千兆速率
 
-##
-**点击右上角的about可以看看学长的电信校园卡广告**
+---
+## **点击右上角的about可以看看学长的电信校园卡广告**
+---
 
 ## 校内实用资源导航
 - [选课指南(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/HDU%E9%80%89%E8%AF%BE%E6%8C%87%E5%8C%97_by%20STEA%20TEAM.xlsx)
@@ -16,12 +17,14 @@ title: 办卡学长的新生指南
 - [教务处](https://jwc.hdu.edu.cn/)
 - [智慧杭电](https://i.hdu.edu.cn/)
 
+---
 
 ## 大一课内网课推荐
 - [翁恺C语言](https://www.bilibili.com/video/BV1XZ4y1S7e1)
 - 宋浩的[高数](https://www.bilibili.com/video/BV1Eb411u7Fw)和[线代](https://www.bilibili.com/video/BV1aW411Q7x1)课(建议倍速播放)
 - 六级真题详细解析视频[2021.12 第一卷](https://www.bilibili.com/video/BV18U4y1U7HT) [2021.12 第二卷](https://www.bilibili.com/video/BV1434y177HB)   [2021.12 第三卷](https://www.bilibili.com/video/BV1og411D7Wn)
 
+---
 
 ## 大一必修课资料分享
 - [近代史纲要的题库(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%EF%BC%88%E8%AF%BE%E7%A8%8B%E7%BB%84%EF%BC%89-%E9%A2%98%E5%BA%93%EF%BC%882022-2023-1%EF%BC%89.xls)
@@ -29,6 +32,7 @@ title: 办卡学长的新生指南
 - 未央学社 数学营（找往年期末期中试卷+答疑）：682906443                 [这是群主](https://www.zhihu.com/people/yong-tan-39-67)
 - 未央学社 物理2营（找往年期末期中试卷+答疑，非物理相关专业用）：691128343
 
+---
 
 ## 实用工具和网站
 - [Z-library](https://singlelogin.re/)：最大的电子图书馆
@@ -38,6 +42,7 @@ title: 办卡学长的新生指南
 - [VScode](https://code.visualstudio.com/)：现代化的代码编辑器，c、python等都支持，有简体中文插件，但要做好安装一整天的心理预期。
 - chatGPT：非常好用的AI工具，可以帮写代码或小论文。注册流程很繁琐请自行百度，也可尝试它的替代品，如NewBing等
 
+---
 
 ## 优质学习资料推荐
 - 注意：这里推荐了关于计算机与AI的优质网课，但它们对期末考帮助不大。如果对绩点有需求，你应该优先**刷历年真题**。
