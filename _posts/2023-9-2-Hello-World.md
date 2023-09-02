@@ -6,7 +6,9 @@ title: 办卡学长的新生指南
 ## 电信卡选购指南
 - [杭电指北的入网篇（有详细选择指南）](https://www.yuque.com/hduer/guide/choose-networks)
 - 太长不看：校园卡很划算但不是必须的。移动电信39/月含寝室个人宽带，联通28/月不含寝室个人宽带，如果寝室同学约好可以只有一两个人办移动电信卡给全寝室用宽带，但五个人都办卡能通过配置路由器同时使用5个账号达到200Mbps * 5的千兆速率
-- 
+
+##
+**点击右上角的about可以看看学长的电信校园卡广告**
 
 ## 校内实用资源导航
 - [选课指南(excel)](https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/raw/master/_assets/HDU%E9%80%89%E8%AF%BE%E6%8C%87%E5%8C%97_by%20STEA%20TEAM.xlsx)

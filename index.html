@@ -1,18 +1,22 @@
 ---
 layout: default
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+{% if site.posts.size == 1 %}
+  <!-- Redirect to the single post if there is only one post -->
+  <script>
+    window.location.href = "{{ site.baseurl }}{{ site.posts[0].url }}";
+  </script>
+{% else %}
+  <!-- Display the posts list -->
+  <div class="posts">
+    {% for post in site.posts %}
+      <article class="post">
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endfor %}
+  </div>
+{% endif %}
