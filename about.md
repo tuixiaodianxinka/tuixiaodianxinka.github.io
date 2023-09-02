@@ -20,6 +20,10 @@ permalink: /about/
 
 - 还有各种应用会员以及办卡时的预存优惠
 
+## 售后
+- [使用手册](https://www.yuque.com/ljcbaby/hduct)
+
+
 ## 联系方式
 
 <img src="https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/blob/master/_assets/wx.jpg?raw=true" alt="图片描述" width="40%" height="40%">
