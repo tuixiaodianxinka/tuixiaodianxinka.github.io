@@ -33,6 +33,11 @@ title: 办卡学长的新生指南
 
 ---
 ## **点击右上角的about可以看看学长的电信校园卡广告**
+- 学长整理了一年来找到的大部分干货，如果觉得下面的内容有用，欢迎分享给同学室友
+- 这个网页的二维码：
+- 
+
+<img src="https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/blob/master/_assets/qrcode.png?raw=true" alt="图片描述" width="40%" height="40%">
 ---
 
 ## 校内实用资源导航
