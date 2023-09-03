@@ -38,6 +38,7 @@ title: 办卡学长的新生指南
 - 
 
 <img src="https://github.com/tuixiaodianxinka/tuixiaodianxinka.github.io/blob/master/_assets/qrcode.png?raw=true" alt="图片描述" width="40%" height="40%">
+
 ---
 
 ## 校内实用资源导航
