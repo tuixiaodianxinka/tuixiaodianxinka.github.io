@@ -22,7 +22,7 @@ permalink: /about/
 
 ## 售后
 - [使用手册](https://www.yuque.com/ljcbaby/hduct)
-
+- 2023新生售后群：421314871
 
 ## 联系方式
 
